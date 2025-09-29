@@ -25,7 +25,7 @@ function App() {
         <a href="https://github.com/EdvaLLd/Databasprojekt"  target="_blank" rel="noopener noreferrer">Databasprojekt</a>
       </header>
       <div class="staticAtBottom">
-        <img src="/images/grass.png" alt="image of grass">
+        <img src="/images/grass.png" alt="grass swaying">
         </img>
       </div>
     </div>
