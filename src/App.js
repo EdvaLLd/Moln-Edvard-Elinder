@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -22,9 +21,8 @@ function App() {
         </p>
 
         <h1>Länkar till github-repos</h1>
-        <a href="https://github.com/EdvaLLd/Webprojekt">Webprojekt</a>
-        <a href="https://github.com/EdvaLLd/Databasprojekt">Databasprojekt</a>
-        <a href=""></a>
+        <a href="https://github.com/EdvaLLd/Webprojekt"  target="_blank" rel="noopener noreferrer">Webprojekt</a>
+        <a href="https://github.com/EdvaLLd/Databasprojekt"  target="_blank" rel="noopener noreferrer">Databasprojekt</a>
       </header>
     </div>
   );
