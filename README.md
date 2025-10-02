@@ -1,6 +1,10 @@
-Länk till hemsidan på Azure: https://white-plant-06d9fb103.1.azurestaticapps.net/
+Länk till hemsidan på Azure: https://white-plant-06d9fb103.1.azurestaticapps.net/ \
 Jag började med att göra en react-applikation som jag sedan la till en enkel portfolio i. Efter det pushade
-jag upp projektet till ett repo på github. Sedan gjorde jag ett konto på Azure som jag kopplade mitt github-konto till
+jag upp projektet till ett repo på github. \
+
+![bild på GitHub](/Images/Github.png)
+
+Sedan gjorde jag ett konto på Azure som jag kopplade mitt github-konto till
 och gjorde en static web app + resource group och kopplade web appen till mitt repo. Detta gör så github-repot läggs upp
 på en domän som hostas av Azure.
 
